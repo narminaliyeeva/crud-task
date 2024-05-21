@@ -1,0 +1,34 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Josef",
+        "age": 27,
+        "email":"xxxxx@gmail.com"
+      },
+      {
+        "id": "2",
+        "name": "Kylie",
+        "age": 19,
+        "email":"xxxxx@gmail.com"
+      },
+      {
+        "id": "3",
+        "name": "Selena",
+        "age": 25,
+        "email":"xxxxx@gmail.com"
+      },
+      {
+        "id": "4",
+        "name": "Timothe",
+        "age": 23,
+        "email":"xxxxx@gmail.com"
+      },
+      {
+        "id": "5",
+        "name": "Suisan",
+        "age": 20,
+        "email":"xxxxx@gmail.com"
+      }
+    ]
+  }
